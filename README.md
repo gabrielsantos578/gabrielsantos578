@@ -1,29 +1,47 @@
-﻿## Bem vindo! Meu nome é Gabriel Santos.
+  
+![image](https://github.com/gabrielsantos578/gabrielsantos578/assets/127057846/23da68c7-34c6-4714-ae5c-77f22114ab79)
+<br /><br />
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=3AACCA&center=true&width=1000&lines=Bem-vindo(a)+ao+Portifólio+de+Projetos)
+<br /><br />
+ 
+## Apresentação
 
-- 🎓 Sou técnico em Análise e Desenvolvimento de Sistemas pela Etec Jales.
-- 📘 Estou cursando o ensino superior no curso ADS AMS na Fatec Jales, onde me formo em Tecnólogo na mesma área.
-- 🔎 Atualmente não trabalho, mas estou em busca de conseguir um estágio dentro da minha área de formação.
-- 🖥️ Gosto de trabalhar com lógica e programação, e um pouco de design.
+<div align="center">
+<p align="left" style="font-size: 40">
+  🎓 Sou formado como técnico em análise e desenvolvimento de sistemas pela Etec Jales.
+</p>
+<p align="left" style="font-size: 40">
+  📘 Estou cursando o ensino superior no curso ADS AMS na Fatec Jales, onde me formo em Tecnólogo na mesma área.
+</p>
+<p align="left" style="font-size: 40">
+  🖥️ Gosto de trabalhar com lógica e programação, com desafios que estimulem o raciocínio lógico e matemático.
+</p>
+</div>
+<br /><br />
+
 
 <div align="center">
   <a href="https://github.com/gabrielsantos578/">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielsantos578&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsantos578&layout=compact&langs_count=7&theme=dark"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielsantos578&show_icons=true&theme=dark&include_all_commits=true&count_private=true_color=0d1117&title_color=3AACCA&text_color=ffe"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsantos578&layout=compact&langs_count=7&theme=dark&include_all_commits=true&count_private=true_color=0d1117&title_color=3AACCA&text_color=ffe"/>
 </div>
+<br /><br />
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Spring logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="C logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="C# logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="React logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Python logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
 
-##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/gabriel-santos-664a38270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-thebadge&logo=linkedin&logoColor=white" target="_blank"></a>  
+## Conhecimentos
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,cs,dotnet,java,spring,python,mongodb,postgresql,mysql,github,git,postman,azure,figma" />
+  </a>
+</p>
+<br /><br />
+
+
+## Contatos
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gabriel-m-santos-664a38270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:santos.gabriel67018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
- 
-![Snake animation](https://github.com/gabrielsantos578/gabrielsantos578/blob/output/github-contribution-grid-snake.svg)
+<br />
