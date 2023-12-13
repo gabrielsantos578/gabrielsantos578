@@ -48,7 +48,6 @@
     <img src="https://skillicons.dev/icons?i=react,js,cs,dotnet,java,spring,python,mongodb,postgresql,mysql,github,git,postman,azure,figma" />
   </a>
 </p>
-<br /><br />
 
 
 ## Contatos
@@ -58,3 +57,13 @@
   <a href="mailto:santos.gabriel67018@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <br />
+<br /><br /><br />
+
+<div align="center">
+  <p align="center" style="font-size: 40">
+    "Esteja em constante evolução, pois como uma moeda valoriza, semelhantemente é o seu valor como profissional.
+  </p>
+  <p align="center" style="font-size: 40">
+    Desafios não vêm para destruir sua carreira, são para dar mais valor a ela."
+  </p>
+</div>
