@@ -15,7 +15,7 @@
   📘 Estou cursando o ensino superior no curso ADS AMS na Fatec Jales, onde me formo em Tecnólogo na mesma área.
 </p>
 <p align="left" style="font-size: 40">
-  🖥️ Gosto de trabalhar com lógica e programação, com desafios que estimulem o raciocínio lógico e matemático.
+  🖥️ Gosto de trabalhar com lógica e programação, buscando por desafios que estimulem o raciocínio lógico e matemático.
 </p>
 </div>
 <br /><br />
