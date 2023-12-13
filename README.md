@@ -23,7 +23,9 @@
 ## Projeto em Destaque
 
 <div align="center">
+  <a href="https://github.com/gabrielsantos578/" target="_blank">
     <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielsantos578&repo=ProjetoIntegrador&theme=transparent&title_color=006CFF&text_color=D9D9D9"/>
+  </a>
 </div>
 <br /><br />
 
@@ -31,10 +33,10 @@
 ## Contribuições
 
 <div align="center" style="display: inline-block;">
-  <a href="https://github.com/gabriesantos578" target="_blank">
+  <a href="https://github.com/gabrielsantos578/" target="_blank">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gabrielsantos578&show_icons=true&theme=transparent&include_all_commits=true&count_private=true_color=0d1117&title_color=006CFF&text_color=D9D9D9"/>
   </a>
-  <a href="https://github.com/gabriesantos578" target="_blank">
+  <a href="https://github.com/gabrielsantos578/" target="_blank">
     <img height="165em" src="https://streak-stats.demolab.com?user=gabrielsantos578&theme=transparent&locale=pt_BR&card_width=500&title_color=006CFF&text_color=D9D9D9"/>
   </a>
 </div>
@@ -44,7 +46,7 @@
 ## Conhecimentos
 
 <div align="center">
-  <a href="https://github.com/gabriesantos578" target="_blank">
+  <a href="https://github.com/gabrielsantos578/" target="_blank">
     <img src="https://skillicons.dev/icons?i=react,js,cs,dotnet,java,spring,python,mongodb,postgresql,mysql,github,git,postman,azure,figma" />
   </a>
 </div>
