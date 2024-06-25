@@ -1,7 +1,7 @@
   
 ![image](https://github.com/gabrielsantos578/gabrielsantos578/assets/127057846/23da68c7-34c6-4714-ae5c-77f22114ab79)
 <br /><br />
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=006CFF&center=true&width=1000&lines=Bem-vindo(a)+ao+Portifólio+de+Projetos)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=006CFF&center=true&width=1000&lines=Bem-vindo(a)+ao+Portfólio+de+Projetos)
 <br /><br />
 
  
