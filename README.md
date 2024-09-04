@@ -26,6 +26,9 @@
   <a href="https://github.com/gabrielsantos578/" target="_blank">
     <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielsantos578&repo=ProjetoIntegrador&theme=transparent&title_color=006CFF&text_color=D9D9D9"/>
   </a>
+<a href="https://github.com/gabrielsantos578/" target="_blank">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielsantos578&repo=Course-WebAPI&theme=transparent&title_color=006CFF&text_color=D9D9D9"/>
+  </a>
 </div>
 <br /><br />
 
