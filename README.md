@@ -43,7 +43,16 @@
 <br /><br />
 
 
-## Conhecimentos
+## Linguagens
+
+<div align="center">
+  <a href="https://github.com/gabrielsantos578/" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsantos578&layout=compact&theme=transparent&title_color=006CFF&text_color=D9D9D9" />
+  </a>
+</div>
+
+
+## Tecnologias
 
 <div align="center">
   <a href="https://github.com/gabrielsantos578/" target="_blank">
